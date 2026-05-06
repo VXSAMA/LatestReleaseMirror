@@ -8,7 +8,7 @@
 # Filters are case‑insensitive regular expressions (grep -E).
 
  1. No filter – keep all assets from the release
-https://github.com/hiddify/hiddify-app
+hiddify/hiddify-app
 
  2. Match keywords (e.g., Android-arm64)
 NullLatency/FlowDriver|Android-arm64|
