@@ -157,5 +157,14 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="sagernet--sing-box"></div>
 
+### SagerNet--sing-box
+
+🔗 [source](https://github.com/SagerNet/sing-box) – [<code><small>v1.13.11</small></code>](https://github.com/SagerNet/sing-box/releases/tag/v1.13.11)
+
+| File | Size | Download |
+|------|------|----------|
+| `SFA-1.13.11-arm64-v8a.apk` | 26.8 MB | [⬇️ Download](https://raw.githubusercontent.com/VXSAMA/LatestReleaseMirror/main/releases/SagerNet/sing-box/SFA-1.13.11-arm64-v8a.apk) |
+| `SFA-1.13.11-legacy-android-5-arm64-v8a.apk` | 22.2 MB | [⬇️ Download](https://raw.githubusercontent.com/VXSAMA/LatestReleaseMirror/main/releases/SagerNet/sing-box/SFA-1.13.11-legacy-android-5-arm64-v8a.apk) |
 <!-- RELEASES_END -->
