@@ -167,4 +167,17 @@ sha256sum FILE_NAME
 |------|------|----------|
 | `SFA-1.13.11-arm64-v8a.apk` | 26.8 MB | [⬇️ Download](https://raw.githubusercontent.com/VXSAMA/LatestReleaseMirror/main/releases/SagerNet/sing-box/SFA-1.13.11-arm64-v8a.apk) |
 | `SFA-1.13.11-legacy-android-5-arm64-v8a.apk` | 22.2 MB | [⬇️ Download](https://raw.githubusercontent.com/VXSAMA/LatestReleaseMirror/main/releases/SagerNet/sing-box/SFA-1.13.11-legacy-android-5-arm64-v8a.apk) |
+
+---
+
+<div id="sartoopjj--thefeed"></div>
+
+### sartoopjj--thefeed
+
+🔗 [source](https://github.com/sartoopjj/thefeed) – [<code><small>v0.16.2</small></code>](https://github.com/sartoopjj/thefeed/releases/tag/v0.16.2)
+
+| File | Size | Download |
+|------|------|----------|
+| `thefeed-android-v0.16.2-arm64-v8a.apk` | 8.9 MB | [⬇️ Download](https://raw.githubusercontent.com/VXSAMA/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-android-v0.16.2-arm64-v8a.apk) |
+| `thefeed-client-android-arm64` | 11.4 MB | [⬇️ Download](https://raw.githubusercontent.com/VXSAMA/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-client-android-arm64) |
 <!-- RELEASES_END -->
