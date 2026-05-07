@@ -1,5 +1,5 @@
 # repos.txt - فقط فیلتر Android arm64
-hiddify/hiddify-app|arm64-v8a\.apk|Android.*arm64
+sartoopjj/thefeed|arm64-v8a\.apk|Android.*arm64
 NullLatency/FlowDriver|Android-arm64
 SagerNet/sing-box|arm64-v8a\.apk
 # KaringX/karing فیلتر اندرویدی ندارد، بنابراین خط زیر غیرفعال شد
